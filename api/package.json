@@ -1,0 +1,19 @@
+{
+  "name": "Api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mathues Fellipi <47674343+MatheusFellipi@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.17",
+    "pg": "^8.5.1"
+  }
+}
