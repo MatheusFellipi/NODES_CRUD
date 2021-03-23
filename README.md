@@ -33,6 +33,9 @@ $ npm start
 
 ### sobre a api
 
+## o banco de dados ultilizado foi o postgress
+configurei o knex para fazer a conexcao com o postress e para fazer as tabelas do mesmo
+
 
 ## Primeiros Passos
 
